@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\bin\Debug\net9.0\Factory Method.exe
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\bin\Debug\net9.0\Factory Method.deps.json
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\bin\Debug\net9.0\Factory Method.runtimeconfig.json
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\bin\Debug\net9.0\Factory Method.dll
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\bin\Debug\net9.0\Factory Method.pdb
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.sourcelink.json
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.dll
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\obj\Debug\net9.0\refint\Factory Method.dll
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.pdb
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\obj\Debug\net9.0\Factory Method.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Factory Method\Factory Method\obj\Debug\net9.0\ref\Factory Method.dll

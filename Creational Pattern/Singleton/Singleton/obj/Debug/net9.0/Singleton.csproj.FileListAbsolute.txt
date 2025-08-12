@@ -12,3 +12,4 @@ C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Singleton\Singlet
 C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Singleton\Singleton\obj\Debug\net9.0\Singleton.pdb
 C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Singleton\Singleton\obj\Debug\net9.0\Singleton.genruntimeconfig.cache
 C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Singleton\Singleton\obj\Debug\net9.0\ref\Singleton.dll
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Singleton\Singleton\obj\Debug\net9.0\Singleton.sourcelink.json
