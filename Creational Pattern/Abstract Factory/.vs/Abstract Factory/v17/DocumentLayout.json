@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Design Patterns\\Creational Pattern\\Abstract Factory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5989E9A8-9583-4451-811A-3497D4F19B2D}|Abstract Factory\\Abstract Factory.csproj|c:\\users\\admin\\source\\repos\\design patterns\\creational pattern\\abstract factory\\abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5989E9A8-9583-4451-811A-3497D4F19B2D}|Abstract Factory\\Abstract Factory.csproj|solutionrelative:abstract factory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Design Patterns\\Creational Pattern\\Abstract Factory\\Abstract Factory\\Program.cs",
+              "RelativeDocumentMoniker": "Abstract Factory\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Design Patterns\\Creational Pattern\\Abstract Factory\\Abstract Factory\\Program.cs",
+              "RelativeToolTip": "Abstract Factory\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T02:10:56.932Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

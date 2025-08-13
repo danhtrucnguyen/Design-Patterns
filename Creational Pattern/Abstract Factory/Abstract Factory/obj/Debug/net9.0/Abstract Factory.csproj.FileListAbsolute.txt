@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\bin\Debug\net9.0\Abstract Factory.exe
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\bin\Debug\net9.0\Abstract Factory.deps.json
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\bin\Debug\net9.0\Abstract Factory.runtimeconfig.json
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\bin\Debug\net9.0\Abstract Factory.dll
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\bin\Debug\net9.0\Abstract Factory.pdb
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.sourcelink.json
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.dll
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\obj\Debug\net9.0\refint\Abstract Factory.dll
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.pdb
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\obj\Debug\net9.0\Abstract Factory.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Design Patterns\Creational Pattern\Abstract Factory\Abstract Factory\obj\Debug\net9.0\ref\Abstract Factory.dll
