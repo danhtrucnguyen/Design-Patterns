@@ -1,0 +1,15 @@
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\bin\Debug\net9.0\Flyweight.exe
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\bin\Debug\net9.0\Flyweight.deps.json
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\bin\Debug\net9.0\Flyweight.runtimeconfig.json
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\bin\Debug\net9.0\Flyweight.dll
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\bin\Debug\net9.0\Flyweight.pdb
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\obj\Debug\net9.0\Flyweight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\obj\Debug\net9.0\Flyweight.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\obj\Debug\net9.0\Flyweight.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\obj\Debug\net9.0\Flyweight.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\obj\Debug\net9.0\Flyweight.sourcelink.json
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\obj\Debug\net9.0\Flyweight.dll
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\obj\Debug\net9.0\refint\Flyweight.dll
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\obj\Debug\net9.0\Flyweight.pdb
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\obj\Debug\net9.0\Flyweight.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Design Patterns\Structural Pattern\Flyweight\Flyweight\obj\Debug\net9.0\ref\Flyweight.dll
